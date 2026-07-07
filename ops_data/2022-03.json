@@ -1,0 +1,564 @@
+{
+ "판교": [
+  {
+   "date": "2022-03-01",
+   "target": null,
+   "sales": 790600,
+   "receipts": 74,
+   "staff": null,
+   "per_receipt": 10683,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-02",
+   "target": null,
+   "sales": 559500,
+   "receipts": 55,
+   "staff": null,
+   "per_receipt": 10172,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-03",
+   "target": null,
+   "sales": 646100,
+   "receipts": 71,
+   "staff": null,
+   "per_receipt": 9100,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-04",
+   "target": null,
+   "sales": 659800,
+   "receipts": 69,
+   "staff": null,
+   "per_receipt": 9562,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-05",
+   "target": null,
+   "sales": 665700,
+   "receipts": 69,
+   "staff": null,
+   "per_receipt": 9647,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-06",
+   "target": null,
+   "sales": 852300,
+   "receipts": 82,
+   "staff": null,
+   "per_receipt": 10393,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-07",
+   "target": null,
+   "sales": 381100,
+   "receipts": 45,
+   "staff": null,
+   "per_receipt": 8468,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-08",
+   "target": null,
+   "sales": 633600,
+   "receipts": 57,
+   "staff": null,
+   "per_receipt": 11115,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-09",
+   "target": null,
+   "sales": 721300,
+   "receipts": 67,
+   "staff": null,
+   "per_receipt": 10765,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-10",
+   "target": null,
+   "sales": 448500,
+   "receipts": 50,
+   "staff": null,
+   "per_receipt": 8970,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-11",
+   "target": null,
+   "sales": 695200,
+   "receipts": 74,
+   "staff": null,
+   "per_receipt": 9394,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-12",
+   "target": null,
+   "sales": 682200,
+   "receipts": 59,
+   "staff": null,
+   "per_receipt": 11562,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-13",
+   "target": null,
+   "sales": 648400,
+   "receipts": 63,
+   "staff": null,
+   "per_receipt": 10292,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-14",
+   "target": null,
+   "sales": 802600,
+   "receipts": 61,
+   "staff": null,
+   "per_receipt": 13157,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-15",
+   "target": null,
+   "sales": 682700,
+   "receipts": 76,
+   "staff": null,
+   "per_receipt": 8982,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-16",
+   "target": null,
+   "sales": 693700,
+   "receipts": 76,
+   "staff": null,
+   "per_receipt": 9127,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-17",
+   "target": null,
+   "sales": 548400,
+   "receipts": 58,
+   "staff": null,
+   "per_receipt": 9455,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-18",
+   "target": null,
+   "sales": 444800,
+   "receipts": 57,
+   "staff": null,
+   "per_receipt": 7803,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-19",
+   "target": null,
+   "sales": 737300,
+   "receipts": 60,
+   "staff": null,
+   "per_receipt": 12288,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-20",
+   "target": null,
+   "sales": 806300,
+   "receipts": 64,
+   "staff": null,
+   "per_receipt": 12598,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-21",
+   "target": null,
+   "sales": 600100,
+   "receipts": 62,
+   "staff": null,
+   "per_receipt": 9679,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-22",
+   "target": null,
+   "sales": 613100,
+   "receipts": 61,
+   "staff": null,
+   "per_receipt": 10050,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-23",
+   "target": null,
+   "sales": 511200,
+   "receipts": 58,
+   "staff": null,
+   "per_receipt": 8813,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-24",
+   "target": null,
+   "sales": 498900,
+   "receipts": 52,
+   "staff": null,
+   "per_receipt": 9594,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-25",
+   "target": null,
+   "sales": 763600,
+   "receipts": 74,
+   "staff": null,
+   "per_receipt": 10318,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-26",
+   "target": null,
+   "sales": 555100,
+   "receipts": 56,
+   "staff": null,
+   "per_receipt": 9912,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-27",
+   "target": null,
+   "sales": 722300,
+   "receipts": 61,
+   "staff": null,
+   "per_receipt": 11840,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-28",
+   "target": null,
+   "sales": 641700,
+   "receipts": 65,
+   "staff": null,
+   "per_receipt": 9872,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-29",
+   "target": null,
+   "sales": 746500,
+   "receipts": 72,
+   "staff": null,
+   "per_receipt": 10368,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-30",
+   "target": null,
+   "sales": 699900,
+   "receipts": 54,
+   "staff": null,
+   "per_receipt": 12961,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-31",
+   "target": null,
+   "sales": 684600,
+   "receipts": 68,
+   "staff": null,
+   "per_receipt": 10067,
+   "productivity": null
+  }
+ ],
+ "서초": [
+  {
+   "date": "2022-03-01",
+   "target": null,
+   "sales": 8236600,
+   "receipts": 535,
+   "staff": null,
+   "per_receipt": 15395,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-02",
+   "target": null,
+   "sales": 5027900,
+   "receipts": 343,
+   "staff": null,
+   "per_receipt": 14658,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-03",
+   "target": null,
+   "sales": 5983600,
+   "receipts": 405,
+   "staff": null,
+   "per_receipt": 14774,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-04",
+   "target": null,
+   "sales": 7410800,
+   "receipts": 486,
+   "staff": null,
+   "per_receipt": 15248,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-05",
+   "target": null,
+   "sales": 8497400,
+   "receipts": 506,
+   "staff": null,
+   "per_receipt": 16793,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-06",
+   "target": null,
+   "sales": 8415600,
+   "receipts": 508,
+   "staff": null,
+   "per_receipt": 16566,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-07",
+   "target": null,
+   "sales": 5404600,
+   "receipts": 405,
+   "staff": null,
+   "per_receipt": 13344,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-08",
+   "target": null,
+   "sales": 6635100,
+   "receipts": 462,
+   "staff": null,
+   "per_receipt": 14361,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-09",
+   "target": null,
+   "sales": 9186900,
+   "receipts": 552,
+   "staff": null,
+   "per_receipt": 16642,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-10",
+   "target": null,
+   "sales": 5160900,
+   "receipts": 378,
+   "staff": null,
+   "per_receipt": 13653,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-11",
+   "target": null,
+   "sales": 7347900,
+   "receipts": 466,
+   "staff": null,
+   "per_receipt": 15768,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-12",
+   "target": null,
+   "sales": 8763300,
+   "receipts": 544,
+   "staff": null,
+   "per_receipt": 16109,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-13",
+   "target": null,
+   "sales": 6937100,
+   "receipts": 427,
+   "staff": null,
+   "per_receipt": 16246,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-14",
+   "target": null,
+   "sales": 3849400,
+   "receipts": 251,
+   "staff": null,
+   "per_receipt": 15336,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-15",
+   "target": null,
+   "sales": 5608300,
+   "receipts": 426,
+   "staff": null,
+   "per_receipt": 13165,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-16",
+   "target": null,
+   "sales": 6931000,
+   "receipts": 472,
+   "staff": null,
+   "per_receipt": 14684,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-17",
+   "target": null,
+   "sales": 6242600,
+   "receipts": 411,
+   "staff": null,
+   "per_receipt": 15188,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-18",
+   "target": null,
+   "sales": 6884900,
+   "receipts": 451,
+   "staff": null,
+   "per_receipt": 15265,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-19",
+   "target": null,
+   "sales": 8112800,
+   "receipts": 502,
+   "staff": null,
+   "per_receipt": 16160,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-20",
+   "target": null,
+   "sales": 9634200,
+   "receipts": 594,
+   "staff": null,
+   "per_receipt": 16219,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-21",
+   "target": null,
+   "sales": 5503900,
+   "receipts": 387,
+   "staff": null,
+   "per_receipt": 14221,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-22",
+   "target": null,
+   "sales": 6382900,
+   "receipts": 434,
+   "staff": null,
+   "per_receipt": 14707,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-23",
+   "target": null,
+   "sales": 6556700,
+   "receipts": 441,
+   "staff": null,
+   "per_receipt": 14867,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-24",
+   "target": null,
+   "sales": 6894200,
+   "receipts": 479,
+   "staff": null,
+   "per_receipt": 14392,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-25",
+   "target": null,
+   "sales": 7622900,
+   "receipts": 486,
+   "staff": null,
+   "per_receipt": 15684,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-26",
+   "target": null,
+   "sales": 8211300,
+   "receipts": 502,
+   "staff": null,
+   "per_receipt": 16357,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-27",
+   "target": null,
+   "sales": 9413400,
+   "receipts": 599,
+   "staff": null,
+   "per_receipt": 15715,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-28",
+   "target": null,
+   "sales": 6545400,
+   "receipts": 444,
+   "staff": null,
+   "per_receipt": 14741,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-29",
+   "target": null,
+   "sales": 7193800,
+   "receipts": 463,
+   "staff": null,
+   "per_receipt": 15537,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-30",
+   "target": null,
+   "sales": 6708400,
+   "receipts": 427,
+   "staff": null,
+   "per_receipt": 15710,
+   "productivity": null
+  },
+  {
+   "date": "2022-03-31",
+   "target": null,
+   "sales": 8783600,
+   "receipts": 530,
+   "staff": null,
+   "per_receipt": 16572,
+   "productivity": null
+  }
+ ]
+}
